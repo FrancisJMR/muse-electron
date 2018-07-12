@@ -3,3 +3,4 @@
 .eslintignore
 .eslintrc.js
 .travis.yml
+/node_modules
